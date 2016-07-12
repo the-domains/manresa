@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2061404
+color:
+  saturation: 0.3783272
+  lightness: 0.5771502
+  brandStrength: 0.4893484
+  brandColors:
+    - '#FFFFFF'
+    - '#212316'
+    - '#B7BA9D'
+    - '#464F3E'
+    - '#728751'
+  rhythmicContrast: 0.09609128
+name: Manresa
