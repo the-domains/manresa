@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Manresa]]></title>
         <description><![CDATA[Manresa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/manresa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jul 2016 16:52:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 16:52:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/manresa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chairs]]></title>
+            <description><![CDATA[<article><h1>Chairs</h1><p>Chairs on the grounds</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e8d328-d756-4a4e-9ab8-74f078ad881d.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e8d328-d756-4a4e-9ab8-74f078ad881d.jpg</link>
+            <guid isPermaLink="false">7fb61447-83b3-4598-8f03-6141db90aab6</guid>
+            <pubDate>Wed, 13 Jul 2016 16:52:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Bell]]></title>
             <description><![CDATA[<article><h1>The Bell</h1><p>Calling out the hours of the day</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01fb7b18-ecf0-4835-99a8-043e5b211521.jpg"></article>]]></description>
