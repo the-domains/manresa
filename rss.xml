@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Manresa]]></title>
+        <description><![CDATA[Manresa]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 16:42:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chairs]]></title>
+            <description><![CDATA[<article><h1>Chairs</h1><p>Chairs on the grounds</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e8d328-d756-4a4e-9ab8-74f078ad881d.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/19e8d328-d756-4a4e-9ab8-74f078ad881d.jpg</link>
+            <guid isPermaLink="false">7fb61447-83b3-4598-8f03-6141db90aab6</guid>
+            <pubDate>Wed, 13 Jul 2016 16:42:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
