@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.2061404
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.05952381
 color:
   saturation: 0.3783272
-  brandStrength: 0.4893484
-  rhythmicContrast: 0.09609128
+  brandStrength: 0.7036341
+  lightness: 0.5771502
   brandColors:
     - '#FFFFFF'
     - '#212316'
     - '#B7BA9D'
     - '#464F3E'
     - '#728751'
-  lightness: 0.5771502
-layout_spectrum: 1
+  rhythmicContrast: 0.09609128
+layout_spectrum: 0.7067669
 name: Manresa
